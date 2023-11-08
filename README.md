@@ -1,11 +1,14 @@
 # shipping-logistics-management-dbms
 The Shipping and Logistics Management DBMS is a comprehensive database management system designed to streamline and optimize the operations of a shipping and logistics company. This project provides a scalable and efficient solution for managing shipments, tracking packages, monitoring fleet operations, and much more.
 
-Features
-User Management: Secure authentication and authorization system for different user roles (admin, staff, clients).
-Shipment Management: Create, track, and manage shipments, including pickup and delivery details.
+# FEATURES
+#USER MANAGEMENT
+: Secure authentication and authorization system for different user roles (admin, staff, client
+#Shipment Management:
+Create, track, and manage shipments, including pickup and delivery details.
 Inventory Management: Monitor and manage the inventory of products and packaging materials.
-Fleet Management: Track and manage the company's vehicles, including maintenance schedules.
+#Fleet Management: 
+Track and manage the company's vehicles, including maintenance schedules.
 Route Optimization: Optimize shipping routes for maximum efficiency and cost savings.
 Financial Management: Track expenses, revenue, and generate financial reports.
 Reporting and Analytics: Generate detailed reports and analytics for informed decision-making.
